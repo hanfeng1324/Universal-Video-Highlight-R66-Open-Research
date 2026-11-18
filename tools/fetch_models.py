@@ -144,6 +144,24 @@ def copy_direct_remainder(url,destination,expected_bytes,start):
         return reader.transferred
 
 
+def copy_direct(url,destination,expected_bytes):
+    size=0
+    with open_upstream(url,timeout=60) as source:
+        try:
+            while block:=source.read(8*2**20):
+                if size+len(block)>expected_bytes:
+                    raise RuntimeError('Upstream size exceeded; partial preserved')
+                destination.write(block)
+                size+=len(block)
+        except (TimeoutError,ConnectionError,http.client.IncompleteRead) as exc:
+            if not 0<size<expected_bytes: raise
+            print('DIRECT_BODY_INTERRUPTED',type(exc).__name__,size,flush=True)
+    if size==expected_bytes: return None
+    if not size: raise RuntimeError('Empty upstream response; partial preserved')
+    print('RESUME_DIRECT_RANGE',size,flush=True)
+    return copy_direct_remainder(url,destination,expected_bytes,size)
+
+
 SOURCES={
     'qwen':dict(repo='Qwen/Qwen2.5-VL-3B-Instruct',revision='66285546d2b821cf421d4f5eb2576359d3770cd3',license='Qwen Research License; research/evaluation noncommercial only',status='UPSTREAM_RESEARCH_ONLY'),
     'dinov2':dict(repo='facebook/dinov2-base',revision='f9e44c814b77203eaa57a6bdbbd535f21ede1415',license='Apache-2.0; keep license/notices',status='UPSTREAM_ALLOWED'),
@@ -221,7 +239,7 @@ def main():
             print('EXISTS_VERIFIED_UNCHANGED',target);record(row,'EXISTS_VERIFIED_UNCHANGED');continue
         target.parent.mkdir(parents=True,exist_ok=True)
         pending=target.with_name(target.name+'.download-part')
-        h=hashlib.sha256();size=0;transferred=None
+        h=hashlib.sha256();transferred=None
         backup=None
         if pending.exists():
             if not a.resume_partials or row.get('member'): raise RuntimeError('Partial preserved; explicit direct-file --resume-partials required: '+str(pending))
@@ -245,11 +263,7 @@ def main():
                 transferred=copy_member(url,row['member'],dst,row['bytes'],row.get('archive_bytes'))
                 print('RANGE_BYTES',transferred)
             else:
-                with open_upstream(row['url'],timeout=60) as src:
-                    for block in iter(lambda:src.read(8*2**20),b''):
-                        size+=len(block)
-                        if size>row['bytes']: raise RuntimeError('Upstream size exceeded; partial preserved')
-                        dst.write(block)
+                transferred=copy_direct(row['url'],dst,row['bytes'])
         with pending.open('rb') as downloaded:
             size=0
             for block in iter(lambda:downloaded.read(8*2**20),b''):h.update(block);size+=len(block)

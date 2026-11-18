@@ -58,7 +58,7 @@
       "source_sha256": "362c422dc9ed871a2860a7228c842826a1f63c6fe1581115b2f0aac02d5e5b8b",
       "license": "MIT",
       "shipped": true,
-      "candidate_sha256": "04e48a3795c2137758ebc161d8b261bd72461c1d354a117788a333ef0cd76a48"
+      "candidate_sha256": "9ec9443a43a0904050a0d5b9bfe6df163553f2e15f472bb5069e414ccb760d77"
     },
     {
       "path": "tools/import_local_assets.py",

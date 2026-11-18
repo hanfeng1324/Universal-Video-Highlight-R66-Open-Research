@@ -2,6 +2,12 @@
   "scope": "Local R66 Open Research release snapshot with scoped project MIT. External weights are acquired from pinned upstream sources.",
   "files": [
     {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+      "matches_phase8": false
+    },
+    {
       "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/anchor_free_helper.py",
       "bytes": 2187,
       "sha256": "4e08ce0a90f1a3ed5d08e56ff67ebf6cf0b710c14703c04aa5b54c8bb45eafbb",
@@ -766,13 +772,13 @@
     {
       "path": "MIT_SCOPE_APPROVED.json",
       "bytes": 17282,
-      "sha256": "01e267f6b3dcdbeac0d3d11ce6efaf4e33b4dfb1f2afa4f3d0084437acc1b470",
+      "sha256": "87eff6be14db1a97d589fcfe0dbe97295c8f04bce6fd75c04d9597fe3d1e2671",
       "matches_phase8": false
     },
     {
       "path": "README.md",
-      "bytes": 2856,
-      "sha256": "d080a7a22dff7cef52732e0f7ed36d1ed69730fa2a36f4e7acff8dd7dddcfb30",
+      "bytes": 3132,
+      "sha256": "431a14acdd5877894b36f9f2f3fe643bff6e754e56af83d92666564e7ac076de",
       "matches_phase8": false
     },
     {
@@ -897,8 +903,8 @@
     },
     {
       "path": "tools/fetch_models.py",
-      "bytes": 16846,
-      "sha256": "04e48a3795c2137758ebc161d8b261bd72461c1d354a117788a333ef0cd76a48",
+      "bytes": 17427,
+      "sha256": "9ec9443a43a0904050a0d5b9bfe6df163553f2e15f472bb5069e414ccb760d77",
       "matches_phase8": false
     },
     {

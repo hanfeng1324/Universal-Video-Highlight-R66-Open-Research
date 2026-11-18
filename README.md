@@ -26,8 +26,12 @@ python tools/preflight.py --inference --environment
 
 Review the Qwen research license and other model terms before acquisition.
 The external model binaries come from the pinned upstream sources. The
-fetcher checks their hashes and uses bounded HTTP Range reads for the two
-Lighthouse ZIP members. Use `--models` for an existing authorized local
+fetcher checks their hashes and uses bounded HTTP Range reads for upstream
+ZIP members. If a direct download is interrupted after writing a prefix, it
+attempts to resume with strict HTTP Range checks. If the fetch still exits
+with a preserved direct-file partial, rerun the same fetch command with
+`--resume-partials`; the complete file must still match its pinned SHA-256.
+Use `--models` for an existing authorized local
 installation, with `config/models.example.json` as the configuration template.
 
 ## Run from a video
