@@ -1,0 +1,961 @@
+{
+  "scope": "Local R66 Open Research release snapshot with scoped project MIT. External weights are acquired from pinned upstream sources.",
+  "files": [
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/anchor_free_helper.py",
+      "bytes": 2187,
+      "sha256": "4e08ce0a90f1a3ed5d08e56ff67ebf6cf0b710c14703c04aa5b54c8bb45eafbb",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/dsnet_af.py",
+      "bytes": 1441,
+      "sha256": "5c3735031f6b37577dcad4361f8ef43bee48bef5fabd698c62a40c878675aa53",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/bbox_helper.py",
+      "bytes": 3946,
+      "sha256": "249d05a8a108985bfd49408477f6734b86e77fc77bd8b2e1c66e92ea16d8e9c1",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/video_helper.py",
+      "bytes": 2779,
+      "sha256": "373e13bbcdb82353820390bb1d283cf993170d06b6b3c617b187ab7c6ab22caf",
+      "matches_phase8": false
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/modules/models.py",
+      "bytes": 4177,
+      "sha256": "30ec8f21d483a2d44791c684f0eafe3643aca0e11be30f5569605ce83c40956d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/__init__.py",
+      "bytes": 395,
+      "sha256": "b87ca1e95cd54b81766e8c74acf0e937952639529e40d2b4088693286f49419e",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/build_sam.py",
+      "bytes": 6405,
+      "sha256": "856d64d71e44407401297b551884fb4cd1aba8082de0ff5fc60fac3dd42f094d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/configs/sam2.1/sam2.1_hiera_s.yaml",
+      "bytes": 3761,
+      "sha256": "0f36b91e86e58d06c87e42997166212468b88b98b60e4d816d5e4d4d088b6f55",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/hieradet.py",
+      "bytes": 10003,
+      "sha256": "03785581ca304d0451ae0df7a08ee0bf1e1dbe66fad285066e6b9ffc0d88d64f",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/image_encoder.py",
+      "bytes": 4706,
+      "sha256": "16eaad232220386f510ca8dfab8655e63699977149a4daf9ce9c6f374e6777a9",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/utils.py",
+      "bytes": 3007,
+      "sha256": "c4a0657db2a92bda2a7ff116cd4017f6b1c59af6408093d8874eb08a0df476ad",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/memory_attention.py",
+      "bytes": 5509,
+      "sha256": "07358cb7f58ec3788e88ff4e6415f8a9d628a3963529d6e2c915494a5347c8e2",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/memory_encoder.py",
+      "bytes": 5657,
+      "sha256": "73f7089ae5fdacdfcaaf3deca1ca6d9f84d89e7deb9cf97589622a9ef17ba42f",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/position_encoding.py",
+      "bytes": 8980,
+      "sha256": "b51404718c0d38f381293c8e5e00a15d129651b7f09b1158002d8974a30967b5",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/mask_decoder.py",
+      "bytes": 12657,
+      "sha256": "ca3523c58365574faddf1bfb54f374e4b4beba05127185ea2b17d22b916e099a",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/prompt_encoder.py",
+      "bytes": 7541,
+      "sha256": "4965ccb4a4504aa4d7246b2ad66ffeacd2626415c86a261dc1c65ffd8ae1d40d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/transformer.py",
+      "bytes": 10761,
+      "sha256": "cda19052331e775190ce8b1159efcb828a4632d931a6d8bd4d47109f121782f1",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam2_base.py",
+      "bytes": 46983,
+      "sha256": "69a46b44e8625f509791352bd09beaafe589cd7d872721384e63d37f9fdc6e41",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam2_utils.py",
+      "bytes": 13173,
+      "sha256": "e35bbf13bc2e544a0272cd3f9539af38a752676ac3cd744be31cd8220afee804",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/sam2_image_predictor.py",
+      "bytes": 19937,
+      "sha256": "f13e5f9d94e5c8d9d2c3622dab20c8f334c089ef2ee5ea8e199da7d332b029ba",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/misc.py",
+      "bytes": 13090,
+      "sha256": "01600c01c161cd079d7106fb1d4da845cf91aa31ab2bcecaf8cb151b6d6d20a2",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/transforms.py",
+      "bytes": 4885,
+      "sha256": "ba3a64f4600c62f209206a6df3b40e3fcf133edae32fad658831bb0c2a6d1146",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/smartVidCrop.py",
+      "bytes": 89601,
+      "sha256": "2f69f5ee3ef241ffe4bec53f520ec13abf682a0f5d71afe53bcaa0384d00553e",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/data.py",
+      "bytes": 779,
+      "sha256": "51ff0f4ef754869946f28d402f64b65511bb708f52962d72c6d3185e6c7a7799",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/model.py",
+      "bytes": 18590,
+      "sha256": "a54cc5628f0aa7c5b410f04b4676ae7770c777a092e5d73988743a8b511933cf",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/models/cgru.py",
+      "bytes": 15036,
+      "sha256": "eeeb14ae9aa14e9b64b113f9d0109378ed7dd2ff74fb63a2a98b2bf5cc39ef5c",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/models/MobileNetV2.py",
+      "bytes": 6840,
+      "sha256": "5f15562df0c9f28edb5fc9b86fd4edf7ac65f1c162e3095cc1c515d9aa0725ad",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/utils.py",
+      "bytes": 6124,
+      "sha256": "34ee7323acd529274555d5a695538d50f194225bf4d5135750329093f386513b",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/r22_lighthouse_runtime.py",
+      "bytes": 7415,
+      "sha256": "2fcc1a7cd528b659d9a56a80c27b8e1e02defb0c4b62b79e2c6c31756acd7047",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/r57_cloud_compose.py",
+      "bytes": 15659,
+      "sha256": "a282d63e866bfc3aba448f85bf611688f36e2dd88468bf15190735cbbc8bd7e5",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/r57_cloud_public_semantic.py",
+      "bytes": 8118,
+      "sha256": "c549c754753478fff1a9683a2d62499f1c56036a55837035d69fc070087eafa1",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/r57_cloud_semantic_v2.py",
+      "bytes": 11416,
+      "sha256": "b786eed34c6324e0815638a8743a73468c359a5e51d988582d0a3fa07d7242b5",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/r57_cloud_semantic_v3.py",
+      "bytes": 6622,
+      "sha256": "50429afdac001f2692a5479b9d6f3cc71a133fb38a3f0db3fb8ec7b82b7a5ccc",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/r57_cloud_visual.py",
+      "bytes": 11723,
+      "sha256": "cdb0fad034f55eb622c464a1032f7c254c8e259cd2a7cd9717a4f30fc89191e9",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/r57_formal_production.py",
+      "bytes": 15454,
+      "sha256": "31f7884478fdf111e9f2fc713559dd9655c16c8f9e188f4843cbce9e0bfa684e",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r59_20261021/data/gaic/mobilenetv2.py",
+      "bytes": 5138,
+      "sha256": "78fe4ed1f764d30f953a04708c592b836deed64c78ccad098bbd31ec5f5e3f4d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r59_20261021/r59_cloud_common.py",
+      "bytes": 1317,
+      "sha256": "467a513a10f67d0d53a1ecd511235fbd88bec542b21577f90494ed3291b8879f",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r59_20261021/r59_gaic.py",
+      "bytes": 5410,
+      "sha256": "93baf455ef1bece02a8d1d33100b9ed8c334759754bdbcf9752c8d98d1bd5a96",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r59_20261021/r59_model.py",
+      "bytes": 4903,
+      "sha256": "5ad849a84e3fdfd12c1d34ba31486b0300b210c004cfbd7c00e4780b350dd5ba",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r60_20261022/r60_cloud_common.py",
+      "bytes": 1275,
+      "sha256": "584fe9a8cabfdfffd633f255869507536deaaafe6fc20aec8e2a4813df71894d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r60_20261022/r60_fcdb_features.py",
+      "bytes": 11493,
+      "sha256": "b40b2815a2dabc2b1de080e5e9256ae01b8bda8aedcdcf1164d270070030605b",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r60_20261022/r60_fcdb_train.py",
+      "bytes": 7058,
+      "sha256": "e3f139f38a551f2c247f7d9f46885a0fa085befbc95a9776b69cc5a667f45484",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r63_20261023/PRODUCTION_A_TREE/r63_produce.py",
+      "bytes": 9150,
+      "sha256": "3d9fb80a219d3a525e0f94f1283824aee3e2cb5a1df018b73f54296b57b9f66c",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r63_20261023/r63_crop_search.py",
+      "bytes": 6836,
+      "sha256": "91802499aa4c7c5b26b794b4ad27dfda0cfec4d68353ae45190525f391ab95ef",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r63_20261023/r63_path_iou.py",
+      "bytes": 4882,
+      "sha256": "d837e92d1846b99f183059652fd57117a367007741af53a731075c0c0de2cf01",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r63_20261023/r63_rank_adapter.py",
+      "bytes": 4570,
+      "sha256": "ca658c3c201e92bed5a5f284782f20f633fd6a462b8d9e2d315f152b854c0dd4",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r64_20261023/r64_gnmc_features.py",
+      "bytes": 9954,
+      "sha256": "6eb10a287e227afbab8d1c634e808e22c1652b1d639adebed3e310a5f50d19d0",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r64_20261023/r64_semantic_extract.py",
+      "bytes": 5156,
+      "sha256": "9e4bc501da0da7f1868cf0c1635e419a7f3ad8798388db23ee8a80409bebba1b",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r64_20261023/r64_semantic_ranker.py",
+      "bytes": 12190,
+      "sha256": "e8e27cc032b3125e94d79bfb3510377140a30632099befed8fda2294f691e1ef",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r64_20261023/r64_video_context.py",
+      "bytes": 7935,
+      "sha256": "bc6d12cffcc97bca310b3288836b07820a312a6dcc4188af71b90c01507f936b",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r65_20261023/A/r65_a_scene.py",
+      "bytes": 14719,
+      "sha256": "b71678572aefc10b96dcc45be9efe19abf79c68d21dec3fa1d291dfc4b11883c",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r65_20261023/A2/r65_a2_concepts.py",
+      "bytes": 9996,
+      "sha256": "2c86ba61a2c2def5ba73ffdc8afcb8ced9b6afcaf0833425fbece21e2fd486bb",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/__init__.py",
+      "bytes": 602,
+      "sha256": "8d91bf611763c9435427d067c6617775abe9f33ec2a716c3c983ce1609592406",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/__init__.py",
+      "bytes": 601,
+      "sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/attention.py",
+      "bytes": 21333,
+      "sha256": "741e816c57ad2c8ad210b73ba6d89078769ed5e6f227fabe842ddfdd46547a27",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/cg_detr.py",
+      "bytes": 56928,
+      "sha256": "7eb387a402edd43b77d13597861c86eff0062369770a9e2b64a7758bf7bb9284",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/cg_detr_transformer.py",
+      "bytes": 41372,
+      "sha256": "9ba7ff65a6701c496fee33b2079d5dcc96ed6ef55727e3e0b8835c7d50ea6a02",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/CIM.py",
+      "bytes": 51848,
+      "sha256": "19d7068b38a959a19986d8824588a334138a198cd72a3f66950a18fc9e3b4e70",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/crossattention.py",
+      "bytes": 24937,
+      "sha256": "f04dd347bf84adb9e52ec0df834ed46005a9eced0f7e72971ecb9e4e33943e36",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/matcher.py",
+      "bytes": 10807,
+      "sha256": "817aa5087f28a9c71efbea9e4d270b204d1a801410e0f676a1b56303b429a27c",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/misc.py",
+      "bytes": 2208,
+      "sha256": "0daffd249e1a7fda80b8acdc767b41300a40e67d51e4a2c6f09a53fed825b52b",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/position_encoding.py",
+      "bytes": 5961,
+      "sha256": "9143acf9afc848165945a69e6c3682e293cd10483f7583ae54b72d999f38f439",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/__init__.py",
+      "bytes": 601,
+      "sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/span_utils.py",
+      "bytes": 6598,
+      "sha256": "d46a57aebbf6c77f6829c414fcbdd2bbf6419f86f9a65420a26973f4e1ce0221",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/uvcom.py",
+      "bytes": 29543,
+      "sha256": "92eee24da1649c9971e166170bfe4f32881ff7dc65b246400ce7f9f1bf091b9d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/tools/r22_lighthouse_runtime.py",
+      "bytes": 7457,
+      "sha256": "cc2ee9f2704a99e2df977dcdbe7b14da44b1db56ea9c6f0ea1f7cef7f1fa8fa8",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/r64_produce.py",
+      "bytes": 2428,
+      "sha256": "ad73a4d72fdb824c690710f8fe24c9a492be6bc47e56eb85db88a185e44c0d5d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/r66_rank_inference.py",
+      "bytes": 8213,
+      "sha256": "1f4105766219f6d66619a2e8bb5293ec30f77509f936e8a181da04afc7092733",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r59_model.py",
+      "bytes": 4903,
+      "sha256": "5ad849a84e3fdfd12c1d34ba31486b0300b210c004cfbd7c00e4780b350dd5ba",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r60_fcdb_train.py",
+      "bytes": 7058,
+      "sha256": "e3f139f38a551f2c247f7d9f46885a0fa085befbc95a9776b69cc5a667f45484",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r62_baseline_produce.py",
+      "bytes": 7463,
+      "sha256": "4f068cc677b5f25eed5c4a012ec8bf89da48dbbd73d01f84be123424c3cebb8a",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r64_semantic_extract.py",
+      "bytes": 5156,
+      "sha256": "9e4bc501da0da7f1868cf0c1635e419a7f3ad8798388db23ee8a80409bebba1b",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r64_semantic_ranker.py",
+      "bytes": 12190,
+      "sha256": "e8e27cc032b3125e94d79bfb3510377140a30632099befed8fda2294f691e1ef",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r64_video_context.py",
+      "bytes": 7935,
+      "sha256": "bc6d12cffcc97bca310b3288836b07820a312a6dcc4188af71b90c01507f936b",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r65_a2_concepts.py",
+      "bytes": 9996,
+      "sha256": "2c86ba61a2c2def5ba73ffdc8afcb8ced9b6afcaf0833425fbece21e2fd486bb",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r65_a_scene.py",
+      "bytes": 14719,
+      "sha256": "b71678572aefc10b96dcc45be9efe19abf79c68d21dec3fa1d291dfc4b11883c",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r66_rank.py",
+      "bytes": 9626,
+      "sha256": "12f4ff404de55df9de9dea2ef17905ec0ed4749461a8c3d64fbebaded1248fd1",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/frozen_production/source_snapshots/r66_sequence.py",
+      "bytes": 13398,
+      "sha256": "ceff21d84b757f75c81a5f220dc22b34868b5d5ceb48242968b0ba0c12eb6967",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/model_assets.py",
+      "bytes": 4360,
+      "sha256": "7e513a8dc2cf2697422877e99cdfddd17cbe978c211d525a2d2a516c4170a03d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/pipeline_receipts.py",
+      "bytes": 2452,
+      "sha256": "ccd8283e5caffabd01d497574f5d9f292efa902161549f9d5d5c4878e137763d",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/r60_fcdb_packet.py",
+      "bytes": 4667,
+      "sha256": "88b52e585ff380ff3e57ec6bc375959074cd2a4129ccbb783e9c033316d74445",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/r66_checkpoint.py",
+      "bytes": 3387,
+      "sha256": "ada5d465b7f61da07887e169d8db43649382797059fe1533136ded08444fad60",
+      "matches_phase8": true
+    },
+    {
+      "path": "code/run_inference.py",
+      "bytes": 14666,
+      "sha256": "2c2cfa26c78666a8bf983e1f69235fa06dfbf46e4ca4f77f39cffdba1f00d59c",
+      "matches_phase8": false
+    },
+    {
+      "path": "code/temporal_segments.py",
+      "bytes": 5380,
+      "sha256": "531396acbbfe6f76662d77b06e8580ca709100e3ea02c39728a4eac9c45c4319",
+      "matches_phase8": false
+    },
+    {
+      "path": "code/validate_independent.py",
+      "bytes": 1538,
+      "sha256": "561284c1d5e1d776fbfba222ad9cdda76ac41285abc77b16ea231901e903230c",
+      "matches_phase8": true
+    },
+    {
+      "path": "config/inference_support.json",
+      "bytes": 16941,
+      "sha256": "624ef715fe461566df7a8698417414a4d30085dbe8f4efa1b285ec0ade657797",
+      "matches_phase8": false
+    },
+    {
+      "path": "config/models.example.json",
+      "bytes": 190,
+      "sha256": "9d88ded4bd723120c9071ca4860e2c5149dc62aba17ba9c4adbd9d5d8c311ab1",
+      "matches_phase8": false
+    },
+    {
+      "path": "config/runtime_assets.json",
+      "bytes": 51008,
+      "sha256": "bbf912748f6591adbaf6fdaf0e4ae323628caf124d9106077c8e4f2f561ebfbb",
+      "matches_phase8": false
+    },
+    {
+      "path": "config/weight_collection.json",
+      "bytes": 12662,
+      "sha256": "e65ad7f0b3563d5458fa9362ddcfa92ba643cfd52b16e64cd0dee4344e255f41",
+      "matches_phase8": true
+    },
+    {
+      "path": "environment/environment.yml",
+      "bytes": 288,
+      "sha256": "1e3119dc866426aaa0884a3764dba4fad1470633d45ae8cd9be7c43446958668",
+      "matches_phase8": true
+    },
+    {
+      "path": "environment/requirements-runtime.txt",
+      "bytes": 279,
+      "sha256": "3205311691ef09b03160b9a719cb9c4cb5a2ec313e495a370f8603784de2d3c1",
+      "matches_phase8": false
+    },
+    {
+      "path": "environment/requirements.txt",
+      "bytes": 108,
+      "sha256": "dcd65dcdd203f2899801ab1253cdd409f38dbc12e3c86ee5c04a603500475326",
+      "matches_phase8": true
+    },
+    {
+      "path": "examples/input.example.json",
+      "bytes": 68,
+      "sha256": "6377e3d795b0ffe0afd056c14c15f7852a64aa895cb8ea2960ab978b8398050e",
+      "matches_phase8": true
+    },
+    {
+      "path": "examples/output.schema.example.json",
+      "bytes": 310,
+      "sha256": "dbd5ed71239f24f9230aa1a288a07ee758c2a8ccdfb9c880c53e6516affbf73e",
+      "matches_phase8": true
+    },
+    {
+      "path": "infer.py",
+      "bytes": 4270,
+      "sha256": "d251afadd530bc000f54a9feb75f834d7d27a939da1d37d5bd4ead323b75b355",
+      "matches_phase8": false
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 269,
+      "sha256": "0eb5e9fe678470d965c9370ad820085136c64508a3c400f5c1e7c11f77604539",
+      "matches_phase8": false
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "bytes": 1037,
+      "sha256": "37b89ea3b27dfe605b6fa6c4777ef7b4ad579a8db1e6b67087d13b0c4c89eaad",
+      "matches_phase8": false
+    },
+    {
+      "path": "LICENSES/PROJECT_MIT.txt",
+      "bytes": 1089,
+      "sha256": "d617b2b6c734832fd7f95daa6d9c7b7183974c9fab195814c78de69e23942535",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/r66/decision.joblib",
+      "bytes": 29065004,
+      "sha256": "f78f6b79035eda1b5982c1687cc52c9662c03fff2904276de182aff1853491aa",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/chat_template.json",
+      "bytes": 1050,
+      "sha256": "ad60d90252ed0b0705ba14e2d0ad0fec0beac1ea955642b54059b36052d8bc96",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/config.json",
+      "bytes": 1373,
+      "sha256": "7ed3eed5be6924cc800e8a5e53fc405c1aab1aaf36bad65c33403b36c56827f5",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/generation_config.json",
+      "bytes": 216,
+      "sha256": "533f191cc257b7de37a4fccd0a7a1706d75e1aa660f93efaa54e5a2a9f9aace9",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/LICENSE",
+      "bytes": 7387,
+      "sha256": "b5c0e5cf74cf51af1ecbc4af597cfcd13fd9925611838884a681070838a14a50",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/merges.txt",
+      "bytes": 1671839,
+      "sha256": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/model.safetensors.index.json",
+      "bytes": 65448,
+      "sha256": "c7dd78a4c6bea60b51332f1baf37b8f8124ecab2c35395a29a29825bf2619768",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/preprocessor_config.json",
+      "bytes": 350,
+      "sha256": "f2058c716eef96ccaed1cc1e2d0c08306b62586d535b28d9d08e691b2fab7ca0",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/README.md",
+      "bytes": 18276,
+      "sha256": "0b6da5a154b923da4dc66e416140c9b7f235f9b08fbbcc27fd9df7b586e3150d",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/tokenizer.json",
+      "bytes": 7031645,
+      "sha256": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/tokenizer_config.json",
+      "bytes": 5702,
+      "sha256": "4abd3520120e266da84c0864fee064d1fb10806f02225911a47253dd38dc5f56",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/vocab.json",
+      "bytes": 2776833,
+      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/unisal/UNISAL.json",
+      "bytes": 692,
+      "sha256": "27d620082668f0ff47f439dae8b4049e610f4dab80b50be92ba28ca36b5fbff6",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/autodl-fs/r60_20261022/fcdb_ranker.joblib",
+      "bytes": 16670654,
+      "sha256": "65fa2a9632b973eb5f8c23941f430050ec2be78829df3b1a0561ffdad4bf09f7",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/dino_projection.pt",
+      "bytes": 424805,
+      "sha256": "e8b54f44eb0fcfb0e7f3149a01e69b8a3879f79bfea0c9bfeda4cee33efe2839",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/config.json",
+      "bytes": 548,
+      "sha256": "f7ff4cfa73d2f70647dbf6950541ad25d73082d54c2e7e9bded160c7656b2a70",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/preprocessor_config.json",
+      "bytes": 436,
+      "sha256": "14e780d86fa1861f8751f868d7f45425b5feb55c38ca26f152ca5097ab30f828",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/README.md",
+      "bytes": 3047,
+      "sha256": "a25f88d48fa60f0c82a6573285ce4f01d60411c986b2de03feb68cf65480eb18",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/config.json",
+      "bytes": 4186,
+      "sha256": "b575ef3c36f2a057fa19e221650105052d61cc9c1a972ec15019c6261ec98770",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/preprocessor_config.json",
+      "bytes": 316,
+      "sha256": "910e70b3956ac9879ebc90b22fb3bc8a75b6a0677814500101a4c072bd7857bd",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/merges.txt",
+      "bytes": 524657,
+      "sha256": "f526393189112391ce6f9795d4695f704121ce452c3aad1f5335cc41337eba85",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/special_tokens_map.json",
+      "bytes": 389,
+      "sha256": "f8c0d6c39aee3f8431078ef6646567b0aba7f2246e9c54b8b99d55c22b707cbf",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/tokenizer.json",
+      "bytes": 2224041,
+      "sha256": "b556ac8c99757ffb677208af34bc8c6721572114111a6e0aaf5fa69ff0b8d842",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/tokenizer_config.json",
+      "bytes": 592,
+      "sha256": "34b7336e4bee12e0a9730eaf5189f582ef3c3eea5027f65730e5717256755aad",
+      "matches_phase8": true
+    },
+    {
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/vocab.json",
+      "bytes": 862328,
+      "sha256": "5047b556ce86ccaf6aa22b3ffccfc52d391ea4accdab9c2f2407da5b742d4363",
+      "matches_phase8": true
+    },
+    {
+      "path": "MIT_SCOPE_APPROVED.json",
+      "bytes": 17282,
+      "sha256": "01e267f6b3dcdbeac0d3d11ce6efaf4e33b4dfb1f2afa4f3d0084437acc1b470",
+      "matches_phase8": false
+    },
+    {
+      "path": "README.md",
+      "bytes": 2856,
+      "sha256": "d080a7a22dff7cef52732e0f7ed36d1ed69730fa2a36f4e7acff8dd7dddcfb30",
+      "matches_phase8": false
+    },
+    {
+      "path": "TEMPORAL_SEGMENTATION.md",
+      "bytes": 3342,
+      "sha256": "10261fbebba2a0a3fe074bccd5ace15ffa14ecb2ddb80ee4a336cadd5618690b",
+      "matches_phase8": false
+    },
+    {
+      "path": "third_party/licenses/CGDETR_LICENSE.txt",
+      "bytes": 3344,
+      "sha256": "85b11fb3367d16a35ef5111539a96ea4a0c084ea4943792544c2280d59a8892b",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/CLIP_LICENSE.txt",
+      "bytes": 1064,
+      "sha256": "987e63b32f6c89ff5160e429458a872ff048e6860b590a3912e938f9da8f14db",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/DINOv2_LICENSE.txt",
+      "bytes": 11359,
+      "sha256": "600cc67cc4cb2f5ea317dcfc687ad1c74dc4bec8782bbe9db0afd83513b935b7",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/DSNET_LICENSE.txt",
+      "bytes": 1066,
+      "sha256": "ce7fc04fa665409abbfef562eed98dd22d9bbed07fad0202f0079b585f4c044f",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/FCDB_MIT_LICENSE.txt",
+      "bytes": 1080,
+      "sha256": "a786219ce38344878f4cdb08c8379b6a4b0064571fb9f7ab811970aaa15da809",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/GAIC_LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "bb046642d89a8f360df8b6172698785d5b430f73b8d5151127349fbaa23bf28a",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/GNMC_LICENSE.txt",
+      "bytes": 4563,
+      "sha256": "ffcca38841adb694b6f380647e15f17c446a4d1656fed51a1e2041d064c94cc8",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/LIGHTHOUSE_LICENSE.txt",
+      "bytes": 10893,
+      "sha256": "5c8d2359cc8672ce4a768895010de8b76ea4dba4467584a03607017d7a82224d",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/LIGHTHOUSE_UVCOM_FILE_NOTICES.txt",
+      "bytes": 1700,
+      "sha256": "a051354519a8bb01de46cc73f236914b445b3bb7e41488eaaabcc9650299d903",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/MOBILENETV2_APACHE_LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/QWEN_RESEARCH_LICENSE.txt",
+      "bytes": 7387,
+      "sha256": "b5c0e5cf74cf51af1ecbc4af597cfcd13fd9925611838884a681070838a14a50",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/RUPTURES_BSD_2_CLAUSE.txt",
+      "bytes": 1357,
+      "sha256": "3b1283d12213f7b361599bf70b90091313ec869e0ffd2b3353973a4d4bc65ade",
+      "matches_phase8": false
+    },
+    {
+      "path": "third_party/licenses/SAM2_CCTORCH_LICENSE.txt",
+      "bytes": 1566,
+      "sha256": "687d4f65ffe399358b170e22572564a16689e496f85a79dc5385fccf6bbc9558",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/SAM2_LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/SMARTVIDCROP_LICENSE.txt",
+      "bytes": 1069,
+      "sha256": "002c2696d92b5c8cf956c11072baa58eaf9f6ade995c031ea635c6a1ee342ad1",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/TORCHVISION_LICENSE.txt",
+      "bytes": 1517,
+      "sha256": "6502f676851cfe25f8af75531dfb32375b7325b73c37e7b43741fa422893e71d",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/licenses/UNISAL_LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "matches_phase8": true
+    },
+    {
+      "path": "third_party/SOURCE_PROVENANCE.json",
+      "bytes": 24527,
+      "sha256": "6ac89c912cd89e2b0090f9b6d0d8936ba64f7dea31936f2587c17e05fb22d33f",
+      "matches_phase8": false
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 6614,
+      "sha256": "d946c6e6bc1263083db515a864c464175aaeb6926713cd726eb2306ad63c6608",
+      "matches_phase8": false
+    },
+    {
+      "path": "tools/fetch_models.py",
+      "bytes": 16846,
+      "sha256": "04e48a3795c2137758ebc161d8b261bd72461c1d354a117788a333ef0cd76a48",
+      "matches_phase8": false
+    },
+    {
+      "path": "tools/install_runtime.py",
+      "bytes": 1781,
+      "sha256": "2c2593ed5b34a5ab92a8289e2a6fb12826be3a79beb12c271610a9266903c867",
+      "matches_phase8": true
+    },
+    {
+      "path": "tools/preflight.py",
+      "bytes": 4794,
+      "sha256": "b6f74b0e918f646ac1c5c7720bde42ae1e68cfa4577a26869d09269e9d3b8882",
+      "matches_phase8": false
+    },
+    {
+      "path": "tools/render_video.py",
+      "bytes": 2729,
+      "sha256": "8d2850b27d72a2b1eae4f44a74cc12adc51ff7b8e681179a7ae16af32b260f4a",
+      "matches_phase8": true
+    },
+    {
+      "path": "tools/split_r66.py",
+      "bytes": 659,
+      "sha256": "1729db40acb9e9af6f08be69f773f9db01df5847a7179f226a6e59c384203f75",
+      "matches_phase8": true
+    },
+    {
+      "path": "tools/test_runtime_contracts.py",
+      "bytes": 2281,
+      "sha256": "0d259be62a0807e9424aa5ed36a583989ed828c2683639e11f3f9390d0527df7",
+      "matches_phase8": true
+    },
+    {
+      "path": "tools/verify_weights.py",
+      "bytes": 405,
+      "sha256": "6dbacaac0cd39f2ae0f7c20f6c457d7be3f50f89d32de1c563b87b3574794dec",
+      "matches_phase8": true
+    },
+    {
+      "path": "verification/runtime_versions.json",
+      "bytes": 281,
+      "sha256": "89e17c8b7f39de96e624f5feb70b79b697b732c0aad14af3493e28ae9370f5b4",
+      "matches_phase8": false
+    }
+  ],
+  "excluded_external_binaries": [
+    "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/model-00001-of-00002.safetensors",
+    "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/model-00002-of-00002.safetensors",
+    "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/dsnet_tvsum.pt",
+    "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/googlenet-1378be20.pth",
+    "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/sam2.1_hiera_small.pt",
+    "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/unisal/weights_best.pth",
+    "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/uvcom.ckpt",
+    "local_assets/models/snapshot/root/autodl-fs/r59_20261021/data/gaic/weights.pth",
+    "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/model.safetensors",
+    "local_assets/models/snapshot/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/pytorch_model.bin",
+    "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/weights/clip_cg_detr_qvhighlight.ckpt"
+  ],
+  "mit_scope": "MIT_SCOPE_APPROVED.json"
+}

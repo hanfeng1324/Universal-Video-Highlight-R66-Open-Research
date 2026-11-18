@@ -1,0 +1,1021 @@
+{
+  "purpose": "Required runtime identity index; does not grant distribution rights or imply all files are supplied",
+  "rows": [
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_based/anchor_helper.py",
+      "bytes": 3823,
+      "sha256": "ce6ebbfbb10ccbf8f3a6fc88693d7c8d22372ba3634a46fba2ef896f051c1d08",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_based/dsnet.py",
+      "bytes": 1968,
+      "sha256": "8a56de870f83aa33b4eaade99ded558588cbfa1e33ecf48c9261f04794a49b6d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_based/losses.py",
+      "bytes": 1978,
+      "sha256": "fdbef401473355ae83a2912c0d7b51521c64fd2795c1c45776800f3f7cde998d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_based/train.py",
+      "bytes": 4195,
+      "sha256": "f092129e6d50102fd289332c6384eb68c689e8a0c07ef83a9e6e588315bd3ce9",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/anchor_free_helper.py",
+      "bytes": 2187,
+      "sha256": "4e08ce0a90f1a3ed5d08e56ff67ebf6cf0b710c14703c04aa5b54c8bb45eafbb",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/dsnet_af.py",
+      "bytes": 1441,
+      "sha256": "5c3735031f6b37577dcad4361f8ef43bee48bef5fabd698c62a40c878675aa53",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/losses.py",
+      "bytes": 4748,
+      "sha256": "f19bba7fad40054e54acf4b46deb3fc368bf27e75d324a6fa9683cc88e20f8b7",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/train.py",
+      "bytes": 3182,
+      "sha256": "7a0426d72e97ee0ce7aa035439e5816523721031c1fc951fed14acb2e8184387",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/evaluate.py",
+      "bytes": 2725,
+      "sha256": "9d495b41da136a951c57bc0a3eecb82043c4f13eae9f2657f55eb8cabf1d64b0",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/bbox_helper.py",
+      "bytes": 3946,
+      "sha256": "249d05a8a108985bfd49408477f6734b86e77fc77bd8b2e1c66e92ea16d8e9c1",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/data_helper.py",
+      "bytes": 3283,
+      "sha256": "0fa68ba98e51e686e53bc47eaaaa63245d9b5ca3cd6e441e4fc6ba77c517a959",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/init_helper.py",
+      "bytes": 3259,
+      "sha256": "5a84c149f6633a1e67942e9da16f56fb5eef6fb860ad006513fce17c10a3a454",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/video_helper.py",
+      "bytes": 2779,
+      "sha256": "373e13bbcdb82353820390bb1d283cf993170d06b6b3c617b187ab7c6ab22caf",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/vsumm_helper.py",
+      "bytes": 5963,
+      "sha256": "bf59cfdce3f242afd5f9ac82dc3864b0dfe7f99401b978b4a11f183a9da9ce7b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/infer.py",
+      "bytes": 1873,
+      "sha256": "0faad0123de8d4fc908be7b5d2adf5639c6a9e0ed02c24e15c87682b82662176",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/make_dataset.py",
+      "bytes": 2540,
+      "sha256": "7ed53ac0e6e1c6635eaeda8ac8aa714371aedf291424c738cd636b396b93c592",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/make_shots.py",
+      "bytes": 1964,
+      "sha256": "50cf11c2ddbcb28e39e8f7a749db9883d276ca50dffb9386bd0f36b7805b2e48",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/make_split.py",
+      "bytes": 3006,
+      "sha256": "dafd65d1c7c5b17d4c50cf662ce4507eed4a2963bda6d80d7fec9aff4b982b0b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/modules/model_zoo.py",
+      "bytes": 688,
+      "sha256": "73f5f473da67d32a3e0e380382069e14dd91864591dae4125ae70267eec077b0",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/modules/models.py",
+      "bytes": 4177,
+      "sha256": "30ec8f21d483a2d44791c684f0eafe3643aca0e11be30f5569605ce83c40956d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/train.py",
+      "bytes": 1688,
+      "sha256": "8f370051b4eb05f7acd4dcf90f7998813e1a82a2e549a16b66a482cd7c5bf7c3",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/__init__.py",
+      "bytes": 395,
+      "sha256": "b87ca1e95cd54b81766e8c74acf0e937952639529e40d2b4088693286f49419e",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/automatic_mask_generator.py",
+      "bytes": 18461,
+      "sha256": "66df266dbe14412305ae3398f0ec1bb21b303a93216b102d767e6c4ee5d4c3d7",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/benchmark.py",
+      "bytes": 2811,
+      "sha256": "9b7a3506b88842ec09031fb7cd0fc1d3fed82e137ce06dbca10495e6c180dda9",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/build_sam.py",
+      "bytes": 6405,
+      "sha256": "856d64d71e44407401297b551884fb4cd1aba8082de0ff5fc60fac3dd42f094d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/configs/sam2.1/sam2.1_hiera_s.yaml",
+      "bytes": 3761,
+      "sha256": "0f36b91e86e58d06c87e42997166212468b88b98b60e4d816d5e4d4d088b6f55",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/hieradet.py",
+      "bytes": 10003,
+      "sha256": "03785581ca304d0451ae0df7a08ee0bf1e1dbe66fad285066e6b9ffc0d88d64f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/image_encoder.py",
+      "bytes": 4706,
+      "sha256": "16eaad232220386f510ca8dfab8655e63699977149a4daf9ce9c6f374e6777a9",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/utils.py",
+      "bytes": 3007,
+      "sha256": "c4a0657db2a92bda2a7ff116cd4017f6b1c59af6408093d8874eb08a0df476ad",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/memory_attention.py",
+      "bytes": 5509,
+      "sha256": "07358cb7f58ec3788e88ff4e6415f8a9d628a3963529d6e2c915494a5347c8e2",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/memory_encoder.py",
+      "bytes": 5657,
+      "sha256": "73f7089ae5fdacdfcaaf3deca1ca6d9f84d89e7deb9cf97589622a9ef17ba42f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/position_encoding.py",
+      "bytes": 8980,
+      "sha256": "b51404718c0d38f381293c8e5e00a15d129651b7f09b1158002d8974a30967b5",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/mask_decoder.py",
+      "bytes": 12657,
+      "sha256": "ca3523c58365574faddf1bfb54f374e4b4beba05127185ea2b17d22b916e099a",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/prompt_encoder.py",
+      "bytes": 7541,
+      "sha256": "4965ccb4a4504aa4d7246b2ad66ffeacd2626415c86a261dc1c65ffd8ae1d40d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/transformer.py",
+      "bytes": 10761,
+      "sha256": "cda19052331e775190ce8b1159efcb828a4632d931a6d8bd4d47109f121782f1",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam2_base.py",
+      "bytes": 46983,
+      "sha256": "69a46b44e8625f509791352bd09beaafe589cd7d872721384e63d37f9fdc6e41",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam2_utils.py",
+      "bytes": 13173,
+      "sha256": "e35bbf13bc2e544a0272cd3f9539af38a752676ac3cd744be31cd8220afee804",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/sam2_image_predictor.py",
+      "bytes": 19937,
+      "sha256": "f13e5f9d94e5c8d9d2c3622dab20c8f334c089ef2ee5ea8e199da7d332b029ba",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/sam2_video_predictor.py",
+      "bytes": 58921,
+      "sha256": "912555920a77f72ded07839efa33fcceecc79f3523abbec783f0be46ee2c55c2",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/sam2_video_predictor_legacy.py",
+      "bytes": 58777,
+      "sha256": "e0c054112f21bfa63620f2026c8bb2e0f4e284b138d09426a08d39f2e882c3f2",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/amg.py",
+      "bytes": 12842,
+      "sha256": "b7b33090e2af72e04dbb815c8f32aff41a4ed1abf9668f62b59f1bdd640ca5d8",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/misc.py",
+      "bytes": 13090,
+      "sha256": "01600c01c161cd079d7106fb1d4da845cf91aa31ab2bcecaf8cb151b6d6d20a2",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/transforms.py",
+      "bytes": 4885,
+      "sha256": "ba3a64f4600c62f209206a6df3b40e3fcf133edae32fad658831bb0c2a6d1146",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/smartVidCrop.py",
+      "bytes": 89601,
+      "sha256": "2f69f5ee3ef241ffe4bec53f520ec13abf682a0f5d71afe53bcaa0384d00553e",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/__init__.py",
+      "bytes": 48,
+      "sha256": "38dd05bcc9fa92c2bc498bfeb7bca43ddc7175e24f336f912734ef3bbb04d9ef",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/data.py",
+      "bytes": 779,
+      "sha256": "51ff0f4ef754869946f28d402f64b65511bb708f52962d72c6d3185e6c7a7799",
+      "distribution": "CANDIDATE_EXPLICIT_SOURCE_EXTRACTION_OR_NOTICE_WITH_PROVENANCE",
+      "historical_source_identity": {
+        "sha256": "cc9cad70fd87d877ca09ebf77fe24918300359c3573572aaa7d4249b1d8cff4d",
+        "bytes": 42285
+      }
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/model.py",
+      "bytes": 18590,
+      "sha256": "a54cc5628f0aa7c5b410f04b4676ae7770c777a092e5d73988743a8b511933cf",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/models/cgru.py",
+      "bytes": 15036,
+      "sha256": "eeeb14ae9aa14e9b64b113f9d0109378ed7dd2ff74fb63a2a98b2bf5cc39ef5c",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/models/MobileNetV2.py",
+      "bytes": 6840,
+      "sha256": "5f15562df0c9f28edb5fc9b86fd4edf7ac65f1c162e3095cc1c515d9aa0725ad",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/salience_metrics.py",
+      "bytes": 3305,
+      "sha256": "edca761dd6ddccdf791da7f0e3c8594e555752e5c86cdb54ebc2555e723278f4",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/train.py",
+      "bytes": 54562,
+      "sha256": "c5088bf348d87d0386637b8fdaee4130ef3fe4d4eef1a47e0f011ce3c3b5c6b3",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/utils.py",
+      "bytes": 6124,
+      "sha256": "34ee7323acd529274555d5a695538d50f194225bf4d5135750329093f386513b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r59_20261021/data/gaic/LICENSE",
+      "bytes": 1081,
+      "sha256": "bb046642d89a8f360df8b6172698785d5b430f73b8d5151127349fbaa23bf28a",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r59_20261021/data/gaic/mobilenetv2.py",
+      "bytes": 5138,
+      "sha256": "78fe4ed1f764d30f953a04708c592b836deed64c78ccad098bbd31ec5f5e3f4d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r59_20261021/r59_gaic.py",
+      "bytes": 5410,
+      "sha256": "93baf455ef1bece02a8d1d33100b9ed8c334759754bdbcf9752c8d98d1bd5a96",
+      "distribution": "CANDIDATE_EXPLICIT_SOURCE_EXTRACTION_OR_NOTICE_WITH_PROVENANCE",
+      "historical_source_identity": {
+        "sha256": "9adabfea529ff932f5ebdf5216c4a9185054ea09b6207d997122029dc2be32ea",
+        "bytes": 5247
+      }
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/.github/workflows/mypy_ruff.yml",
+      "bytes": 787,
+      "sha256": "02d9d82e328160f9f1ea0f2ab86f1d7d82a7ff26c6ad710c906097fefe7a9e9b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/.github/workflows/pytest.yml",
+      "bytes": 712,
+      "sha256": "29d0045158de5e0a76d31584e13e46ed6c1c904e65e252f02ad5f5850c72a007",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/api_example/amr_demo.py",
+      "bytes": 1558,
+      "sha256": "dfe71670569eb765de73c5b0ffd17d6ca3059a693f234d71c49519fcc2ce9912",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/api_example/demo.py",
+      "bytes": 2074,
+      "sha256": "d5bf5c10b41cf5969694bad74efea608de44cd5cd75b942621b2b64433737e45",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/base.yml",
+      "bytes": 753,
+      "sha256": "ea6945f83773919f85c8cbe0e6cb802f9f8ae89e095bc17853ade1127d640a42",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/activitynet.yml",
+      "bytes": 156,
+      "sha256": "19e211e20abc78f30ce674bbf9d5f4c3d222167da0a2624416bd6928b8618edf",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/castella.yml",
+      "bytes": 168,
+      "sha256": "1390198fb4c5b06b40e17c4584485c3e9ccff78116739c090542e16841696e3c",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/charades.yml",
+      "bytes": 166,
+      "sha256": "23cba61ee65a3a06ab95432366e34f7280441f134b43708693f936ec65e4662a",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/clotho-moment.yml",
+      "bytes": 167,
+      "sha256": "c0e06d8d1664ed698fe0dc8489a343c10418182d51386afcc0ab90c1ba996778",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/qvhighlight.yml",
+      "bytes": 152,
+      "sha256": "8008e3bf9b99aaca5df6ad6631bcd65f3bb0d67d639b967626ace6a34e07d5b4",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/qvhighlight_pretrain.yml",
+      "bytes": 148,
+      "sha256": "7090afdfb272e8a642369d17a297f5b9d5f61a303ca8abfb3cd0756f3e06a42c",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/tacos.yml",
+      "bytes": 204,
+      "sha256": "70fc5221a23809197ff38cda38cc2c9572635f7b37bd3556ee57b593e7aa649b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/tut2017.yml",
+      "bytes": 67,
+      "sha256": "d060f1b69059f6d595ea0fd79ad5d58fcf3fbcf31fbf0206a78bf90a6ffee67e",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/tvsum.yml",
+      "bytes": 209,
+      "sha256": "96c43618b9e9378d60024475a78f244dd2cd8f8d57ce70c22e5ea0b9c9b817c8",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/unav100-subset.yml",
+      "bytes": 74,
+      "sha256": "76a4f8dc6022b383d45d789455306885a83edbe44e7dec3b736f50204bb0fabe",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/dataset/youtube_highlight.yml",
+      "bytes": 285,
+      "sha256": "8cb12e8cd908149e105f8cd48e47845b0c700a38c7198a9c9bab7d59b9108991",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/feature/clap.yml",
+      "bytes": 122,
+      "sha256": "d6d68464d5680f69406b6a203e7d59f75210477efd7a87dfb2732731289716b7",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/feature/clip.yml",
+      "bytes": 88,
+      "sha256": "d17490c1163043a5eb80a9536cb9fa0b9868637e6c0b50cb45b14f35b5bc0a7a",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/feature/clip_slowfast.yml",
+      "bytes": 98,
+      "sha256": "9f10233bbd5633ccb5175fde922dcd57a51b1a974095fb371948dce7ef9eb589",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/feature/clip_slowfast_pann.yml",
+      "bytes": 140,
+      "sha256": "9f2859f7e429d6bdb6673442c1f44e2b56aa963ed29df289cb446c3887a311e0",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/feature/i3d_clip.yml",
+      "bytes": 88,
+      "sha256": "c859e4a49e351f4a8027f297c31f0bb6cb308b1f0fbf032c4eedd34bd20db39a",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/feature/resnet_glove.yml",
+      "bytes": 92,
+      "sha256": "2f247faf20f538f6f22208bb9765010c45ba40a97ebdaa413189ab427295ce39",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/model/cg_detr.yml",
+      "bytes": 214,
+      "sha256": "31411085f1340c8e7aa046d3b6648880263a11acd8922a1aa759463e799948e1",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/model/eatr.yml",
+      "bytes": 30,
+      "sha256": "0bbdf740a350027ca8ba2d21def72d6ac5c1807c0140e47703a9bc471e63e891",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/model/moment_detr.yml",
+      "bytes": 23,
+      "sha256": "82207f73de080cc450f90162623a4cf77ee8d56b930196a75e2fea05e9d5738e",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/model/qd_detr.yml",
+      "bytes": 19,
+      "sha256": "4628ef82806a92a2ee0a7ba931ffb2309671f659fb8bcd0de28b3b69618da87d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/model/taskweave_hd2mr.yml",
+      "bytes": 50,
+      "sha256": "f9628d0ff6c7a98d97e433457c80b40f10402345ee64b74b0fa699e87fd03a5d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/model/taskweave_mr2hd.yml",
+      "bytes": 49,
+      "sha256": "8577bbb90f41265aab5293d3d762ac4c80837055852f9997b314afd7a2df4a3d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/model/tr_detr.yml",
+      "bytes": 57,
+      "sha256": "3c01c0669ed3f131abd80da1301a3d7393824c29afb64be2b5bf1598f30b5d05",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/configs/model/uvcom.yml",
+      "bytes": 204,
+      "sha256": "be3646f637dc2630f8a70139b5affa6c291aaeddc321dc37474305257705fa71",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/__init__.py",
+      "bytes": 602,
+      "sha256": "8d91bf611763c9435427d067c6617775abe9f33ec2a716c3c983ce1609592406",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/__init__.py",
+      "bytes": 601,
+      "sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/attention.py",
+      "bytes": 21333,
+      "sha256": "741e816c57ad2c8ad210b73ba6d89078769ed5e6f227fabe842ddfdd46547a27",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/cg_detr.py",
+      "bytes": 56928,
+      "sha256": "7eb387a402edd43b77d13597861c86eff0062369770a9e2b64a7758bf7bb9284",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/cg_detr_transformer.py",
+      "bytes": 41372,
+      "sha256": "9ba7ff65a6701c496fee33b2079d5dcc96ed6ef55727e3e0b8835c7d50ea6a02",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/CIM.py",
+      "bytes": 51848,
+      "sha256": "19d7068b38a959a19986d8824588a334138a198cd72a3f66950a18fc9e3b4e70",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/crossattention.py",
+      "bytes": 24937,
+      "sha256": "f04dd347bf84adb9e52ec0df834ed46005a9eced0f7e72971ecb9e4e33943e36",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/eatr.py",
+      "bytes": 22992,
+      "sha256": "d40506b39d30e24b2348e8fac17949b6dffe2aee1de498efbd08dd0c08c240ea",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/eatr_transformer.py",
+      "bytes": 26015,
+      "sha256": "59742397a92d483687dab8428d6bdd35c9a849457c2caae80ca9894dec3e8686",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/loss_func.py",
+      "bytes": 4567,
+      "sha256": "f421241e8915874b15489131846b09afe4c854ccafad5f1aef8fbb555eb90427",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/matcher.py",
+      "bytes": 10807,
+      "sha256": "817aa5087f28a9c71efbea9e4d270b204d1a801410e0f676a1b56303b429a27c",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/misc.py",
+      "bytes": 2208,
+      "sha256": "0daffd249e1a7fda80b8acdc767b41300a40e67d51e4a2c6f09a53fed825b52b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/moment_detr.py",
+      "bytes": 19438,
+      "sha256": "36049dddfd55e1d76f8fefb4fc9ae246f596c9d71c7d66bac2bf84e933f6c265",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/moment_transformer.py",
+      "bytes": 21787,
+      "sha256": "b5809f9605ee32f35396db964e915312e987620d50989988e0f9421ba39fcf06",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/position_encoding.py",
+      "bytes": 5961,
+      "sha256": "9143acf9afc848165945a69e6c3682e293cd10483f7583ae54b72d999f38f439",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/qd_detr.py",
+      "bytes": 24628,
+      "sha256": "bfe28d510dc728ba6e185fb545323c4de188d54514962239f6c0f88f63600907",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/qd_detr_transformer.py",
+      "bytes": 36147,
+      "sha256": "02b046ca9045b7e8925097cbfe345acbd6b522aa60c1c1a4f6c9fc5d31072d96",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/taskweave.py",
+      "bytes": 31015,
+      "sha256": "8f6b13c441708a925e66543ce5ba4a89448cf3a86140d11e8e981a4fa419d879",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/taskweave_transformer.py",
+      "bytes": 35569,
+      "sha256": "a08e0bd74584e48dee3587b4d99293db393e0339e6d355b6f03eed24fb6c5abd",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/tr_detr.py",
+      "bytes": 30026,
+      "sha256": "08ead0e812227f84033ffd9112f7c32b6e44b774b568b8b905896be6cbac20df",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/tr_detr_transformer.py",
+      "bytes": 38385,
+      "sha256": "ef8b20e256fb893e72fd27843b3acf90c11a7479109441fd7cabd25ad41d61e2",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/__init__.py",
+      "bytes": 601,
+      "sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/basic_utils.py",
+      "bytes": 10117,
+      "sha256": "15a5780a7b67a082ff4afece7553ef74a7d57577bf3766dc69a3111966e5882f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/model_utils.py",
+      "bytes": 3327,
+      "sha256": "e715779027eddbe9eb580c62c816b2a997f9a60f3a3b860cdae3455337d88124",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/span_utils.py",
+      "bytes": 6598,
+      "sha256": "d46a57aebbf6c77f6829c414fcbdd2bbf6419f86f9a65420a26973f4e1ce0221",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/temporal_nms.py",
+      "bytes": 4630,
+      "sha256": "23a08180901394488711367ab07499d1fc3b8020189e86d4b051e0c50424c526",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/tensor_utils.py",
+      "bytes": 6225,
+      "sha256": "3b70ec1f0d8a81abe309c7ffc210dcdd9dc8d60d5ba85a398ac1673e74be6d38",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/windows_utils.py",
+      "bytes": 3654,
+      "sha256": "62d42031e35527d510a1cfb9f0d4c1cc6b17ac95020c1e399ea0ea74f221beac",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/uvcom.py",
+      "bytes": 29543,
+      "sha256": "92eee24da1649c9971e166170bfe4f32881ff7dc65b246400ce7f9f1bf091b9d",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/vocab/__init__.py",
+      "bytes": 234,
+      "sha256": "21a5166616f381d067f40c225618b592290960e01bf315645ce8714dec3a8ee6",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/vocab/vectors.py",
+      "bytes": 11760,
+      "sha256": "5b4605efa70da60c03c1a4857ecc43b1411dec1f0497bf23c6125e41ba398d1a",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/vocab/vocab.py",
+      "bytes": 4868,
+      "sha256": "fedc1e7e1f65fbc8eafc3778e50cccdf01c92ecb2f5088c802cb78057bf015cf",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/__init__.py",
+      "bytes": 602,
+      "sha256": "8d91bf611763c9435427d067c6617775abe9f33ec2a716c3c983ce1609592406",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/audio_encoder.py",
+      "bytes": 2171,
+      "sha256": "d4da8da97f768799b20f5b8629d290bdd8716a59294fc340f484b34e00f54da0",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/audio_encoders/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/audio_encoders/clap_a.py",
+      "bytes": 2353,
+      "sha256": "d305a9221cdda0e80ab41910aa511ad6d281d745877fb1e61d3b48ae9941716e",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/audio_encoders/pann.py",
+      "bytes": 9439,
+      "sha256": "46fdf9ffda29aae2745d0badca392c3e081c055a8057e0df9c38d09c268a1c2f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/base_encoder.py",
+      "bytes": 1056,
+      "sha256": "b22e20803e086a2f5a86bdd8743cceb446656f3660c5da36aadc3647d7583399",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/text_encoder.py",
+      "bytes": 2217,
+      "sha256": "89d4366e38a0d9e27e9166fb77f0f7986159d8f99a8409685f05ddab88435478",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/text_encoders/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/text_encoders/clap_t.py",
+      "bytes": 1425,
+      "sha256": "1c9239df6c4d217f1c36ab39c72a5b4ee096c604ac139e3eb301c1b06a234a82",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/text_encoders/clip_t.py",
+      "bytes": 1047,
+      "sha256": "e25348ad2c883e1ffcb586c69c16acf7cbafd310f98ac155166e3c324ada9e64",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/text_encoders/glove.py",
+      "bytes": 1319,
+      "sha256": "8d2c2a9dae33e6f55f55aeb7db59ec9a216b424faf49150409e72846b1e31dd3",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoder.py",
+      "bytes": 4460,
+      "sha256": "bc2f4b3322abf0246e0800a069352a473a6a81fdf88d811c70c6657db5ed3076",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/__init__.py",
+      "bytes": 601,
+      "sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/clip_v.py",
+      "bytes": 2443,
+      "sha256": "a19f97801f59425abf706cacd0bad426e896edaecf048a2019f671f22978f468",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/resnet152.py",
+      "bytes": 2787,
+      "sha256": "ccce1731b7ea756c8eaab62ba5241b5a32682db5f3abe24b78f72016ea49eba9",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast.py",
+      "bytes": 3893,
+      "sha256": "c08793ddd4f4040cfe2fbd79997a0b64378fdaa0063f6d9bf86bff6a86804043",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/__init__.py",
+      "bytes": 673,
+      "sha256": "20c20b1a0609384924f8cbe00495f71c55aa5c83932815d202af8d1f7910396f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/model_loader.py",
+      "bytes": 1304,
+      "sha256": "3fe065c78e8147212050cc53525d9a77af933ad113a698f01adc63565a220a89",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/models/__init__.py",
+      "bytes": 675,
+      "sha256": "5c7e39eb6d8190ac4959781242146a074943caf0ebbc2d4cebc50729032a01c9",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/models/head_helper.py",
+      "bytes": 4175,
+      "sha256": "468edfaa2025c5d1eab32650ce68c7730d092d09e12051d0a5129b4eaaf95f7f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/models/model_builder.py",
+      "bytes": 932,
+      "sha256": "248b46fa5121e497ace9d18ee8972ccbc184917c3d4aad68af97ef662a38a73b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/models/nonlocal_helper.py",
+      "bytes": 6899,
+      "sha256": "883df537e279184480171c39cc6ed6bd4d65fef8206dc13832e0d48ef8e7ac46",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/models/resnet_helper.py",
+      "bytes": 18746,
+      "sha256": "16cc5d2bb263a508839852d3d91a0c3a0bd4d34f4b501f8653f02da8824f191c",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/models/stem_helper.py",
+      "bytes": 6446,
+      "sha256": "562d964a9ac9df08aaa5d3f495033496636b953aaf14daa0cfb3529ad381f7a2",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/models/video_model_builder.py",
+      "bytes": 11378,
+      "sha256": "a8ef775e69136b65dd2ba1b3142a7da056830f4d6f9b4329f6ba8a7c5cccad07",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/utils/__init__.py",
+      "bytes": 674,
+      "sha256": "74a226fccebd38964e1b5e5a77fdd79f8cbb8034cf0816b298479c42a0dd9677",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/utils/c2_model_loading.py",
+      "bytes": 5237,
+      "sha256": "d21cbf495048aed5f0cc3ec2b59a924b984e725f5b786ab968ed9cc0697135dd",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/utils/checkpoint.py",
+      "bytes": 5153,
+      "sha256": "9a925f730b92960ee9788221eb3b98577179679855eff4890315dd7d199cc01b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/feature_extractor/vision_encoders/slowfast_model/utils/weight_init_helper.py",
+      "bytes": 2021,
+      "sha256": "b6020d5502284ee54952f8a6cfb731cb9aea9a0aafaf29dd20037da78d2ffe46",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/frame_loaders/__init__.py",
+      "bytes": 601,
+      "sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/frame_loaders/base_loader.py",
+      "bytes": 2909,
+      "sha256": "f1c5b71bb7a5846d68941864fa75dd8235efa3eb744641c3c9244c79628f586f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/frame_loaders/clip_loader.py",
+      "bytes": 2519,
+      "sha256": "7fd2bc46aace532e2a0a357d8243d3cb66e112d07ad721d3e107703d8289631f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/frame_loaders/slowfast_loader.py",
+      "bytes": 8052,
+      "sha256": "a3b473ad2bb6e99fca5d7cd698e28274b1d16855e72eafcf056af5f299afb19c",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/models.py",
+      "bytes": 14681,
+      "sha256": "5c8c08d3a8c4789f311578c10ec326a6685b56292532cd6078979ad7f05102d4",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/setup.py",
+      "bytes": 458,
+      "sha256": "590fd4af3b7c59f0c32c2846af68b3ccec3fde7287cedcdc7fa2e11d3eebbc3f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/tests/test_models.py",
+      "bytes": 7588,
+      "sha256": "a78baa8cbebe3f738276cbae1e6f26d29345e09e1f697e46c5bb4a5d9394756c",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/cg_detr_dataset.py",
+      "bytes": 25650,
+      "sha256": "b2a1c9ee5da2cd2f4b916c99ae61ad1981bae68e8b1af20ca977da789dde55ca",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/config.py",
+      "bytes": 5798,
+      "sha256": "0092e40005e80478c868d024430b4492dcea6f0e07b92cef808fb6b58ab5fc4f",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/dataset.py",
+      "bytes": 26469,
+      "sha256": "522d13aca796e02f461791c4e24521b752b6433ae888ab1113b0fcfee592424c",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/evaluate.py",
+      "bytes": 19768,
+      "sha256": "7d65922377a9f109a7e044e886e26cae8013d314f54285e2955fe5dc512ea423",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/postprocessing.py",
+      "bytes": 3710,
+      "sha256": "3ad4848bfb1ca50d2204e3b1729d427cae0817ea239a4b9228d6b07e66bd4f5b",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/standalone_eval/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/standalone_eval/eval.py",
+      "bytes": 16633,
+      "sha256": "94d9ad02bfdb6d960340160293bbf4379b11f955bb409fc12e7c72e4c91c6526",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/standalone_eval/sample_val_preds_metrics_raw.json",
+      "bytes": 3252,
+      "sha256": "ddd5e405c480c6bde6abe2d54561d68ce7098bc7c10a42ed40a9e72e2eda5841",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/standalone_eval/utils.py",
+      "bytes": 10022,
+      "sha256": "e2e2587f7c075a2284d746afc63d115ade21554c4e174db408e143a058b34cf6",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/training/train.py",
+      "bytes": 14112,
+      "sha256": "7694abd17152b8650608080e390ea3e5ab2e0a6eec413d1cbc0132185a1d31f2",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    },
+    {
+      "path": "local_assets/models/r66/sequence_transition.joblib",
+      "bytes": 1083,
+      "sha256": "2aa525542f680b259cd768d8731cb80fd4dce5305d15fd307a375d8a21924ff6",
+      "distribution": "LOCAL_ONLY_PENDING_CLEARANCE"
+    }
+  ]
+}

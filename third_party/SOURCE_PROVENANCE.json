@@ -1,0 +1,391 @@
+[
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/bbox_helper.py",
+    "upstream_repo": "li-plus/DSNet",
+    "commit": "1804176e2e8b57846beb063667448982273fca89",
+    "upstream_path": "src/helpers/bbox_helper.py",
+    "url": "https://raw.githubusercontent.com/li-plus/DSNet/1804176e2e8b57846beb063667448982273fca89/src/helpers/bbox_helper.py",
+    "local_sha256": "249d05a8a108985bfd49408477f6734b86e77fc77bd8b2e1c66e92ea16d8e9c1",
+    "license": "MIT"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/__init__.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/__init__.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/__init__.py",
+    "local_sha256": "8d91bf611763c9435427d067c6617775abe9f33ec2a716c3c983ce1609592406",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/__init__.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/__init__.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/__init__.py",
+    "local_sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/__init__.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/utils/__init__.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/utils/__init__.py",
+    "local_sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/span_utils.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/utils/span_utils.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/utils/span_utils.py",
+    "local_sha256": "d46a57aebbf6c77f6829c414fcbdd2bbf6419f86f9a65420a26973f4e1ce0221",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/matcher.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/matcher.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/matcher.py",
+    "local_sha256": "817aa5087f28a9c71efbea9e4d270b204d1a801410e0f676a1b56303b429a27c",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/attention.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/attention.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/attention.py",
+    "local_sha256": "741e816c57ad2c8ad210b73ba6d89078769ed5e6f227fabe842ddfdd46547a27",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/crossattention.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/crossattention.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/crossattention.py",
+    "local_sha256": "f04dd347bf84adb9e52ec0df834ed46005a9eced0f7e72971ecb9e4e33943e36",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/cg_detr_transformer.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/cg_detr_transformer.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/cg_detr_transformer.py",
+    "local_sha256": "9ba7ff65a6701c496fee33b2079d5dcc96ed6ef55727e3e0b8835c7d50ea6a02",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/position_encoding.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/position_encoding.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/position_encoding.py",
+    "local_sha256": "9143acf9afc848165945a69e6c3682e293cd10483f7583ae54b72d999f38f439",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/misc.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/misc.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/misc.py",
+    "local_sha256": "0daffd249e1a7fda80b8acdc767b41300a40e67d51e4a2c6f09a53fed825b52b",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/cg_detr.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/cg_detr.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/cg_detr.py",
+    "local_sha256": "7eb387a402edd43b77d13597861c86eff0062369770a9e2b64a7758bf7bb9284",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/anchor_free_helper.py",
+    "upstream_repo": "li-plus/DSNet",
+    "commit": "1804176e2e8b57846beb063667448982273fca89",
+    "upstream_path": "src/anchor_free/anchor_free_helper.py",
+    "url": "https://raw.githubusercontent.com/li-plus/DSNet/1804176e2e8b57846beb063667448982273fca89/src/anchor_free/anchor_free_helper.py",
+    "local_sha256": "4e08ce0a90f1a3ed5d08e56ff67ebf6cf0b710c14703c04aa5b54c8bb45eafbb",
+    "license": "MIT"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/modules/models.py",
+    "upstream_repo": "li-plus/DSNet",
+    "commit": "1804176e2e8b57846beb063667448982273fca89",
+    "upstream_path": "src/modules/models.py",
+    "url": "https://raw.githubusercontent.com/li-plus/DSNet/1804176e2e8b57846beb063667448982273fca89/src/modules/models.py",
+    "local_sha256": "30ec8f21d483a2d44791c684f0eafe3643aca0e11be30f5569605ce83c40956d",
+    "license": "MIT"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/dsnet_af.py",
+    "upstream_repo": "li-plus/DSNet",
+    "commit": "1804176e2e8b57846beb063667448982273fca89",
+    "upstream_path": "src/anchor_free/dsnet_af.py",
+    "url": "https://raw.githubusercontent.com/li-plus/DSNet/1804176e2e8b57846beb063667448982273fca89/src/anchor_free/dsnet_af.py",
+    "local_sha256": "5c3735031f6b37577dcad4361f8ef43bee48bef5fabd698c62a40c878675aa53",
+    "license": "MIT"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/video_helper.py",
+    "upstream_repo": "li-plus/DSNet",
+    "commit": "1804176e2e8b57846beb063667448982273fca89",
+    "upstream_path": "src/helpers/video_helper.py",
+    "url": "https://raw.githubusercontent.com/li-plus/DSNet/1804176e2e8b57846beb063667448982273fca89/src/helpers/video_helper.py",
+    "local_sha256": "373e13bbcdb82353820390bb1d283cf993170d06b6b3c617b187ab7c6ab22caf",
+    "license": "MIT",
+    "baseline_sha256": "94e8c48d9009a65860e1144400ea205d757b1108508910c8ccfd4e2cb81e030d",
+    "modifications": "Remove eager LEAR import and delegate segmentation to candidate backend. Preserve GoogLeNet feature extraction."
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/CIM.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/CIM.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/CIM.py",
+    "local_sha256": "19d7068b38a959a19986d8824588a334138a198cd72a3f66950a18fc9e3b4e70",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/uvcom.py",
+    "upstream_repo": "line/lighthouse",
+    "commit": "9b04316efe436d0cd4082e565e22b75f5f8bdb98",
+    "upstream_path": "lighthouse/common/uvcom.py",
+    "url": "https://raw.githubusercontent.com/line/lighthouse/9b04316efe436d0cd4082e565e22b75f5f8bdb98/lighthouse/common/uvcom.py",
+    "local_sha256": "92eee24da1649c9971e166170bfe4f32881ff7dc65b246400ce7f9f1bf091b9d",
+    "license": "Apache-2.0 + retained MIT and inherited notices"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/utils.py",
+    "upstream_repo": "rdroste/unisal",
+    "commit": "7f8ca1a7ecb3dbc1bf7fca837cb6186a85ac27d9",
+    "upstream_path": "unisal/utils.py",
+    "url": "https://raw.githubusercontent.com/rdroste/unisal/7f8ca1a7ecb3dbc1bf7fca837cb6186a85ac27d9/unisal/utils.py",
+    "local_sha256": "34ee7323acd529274555d5a695538d50f194225bf4d5135750329093f386513b",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/models/cgru.py",
+    "upstream_repo": "rdroste/unisal",
+    "commit": "a1d2d2c20df12d458c4713188ff6f50bca72fa7f",
+    "upstream_path": "unisal/models/cgru.py",
+    "url": "https://raw.githubusercontent.com/rdroste/unisal/a1d2d2c20df12d458c4713188ff6f50bca72fa7f/unisal/models/cgru.py",
+    "local_sha256": "eeeb14ae9aa14e9b64b113f9d0109378ed7dd2ff74fb63a2a98b2bf5cc39ef5c",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/models/MobileNetV2.py",
+    "upstream_repo": "rdroste/unisal",
+    "commit": "d0a1beb7fc0e6f3e7d3af5baf23b0914d81a18bb",
+    "upstream_path": "unisal/models/MobileNetV2.py",
+    "url": "https://raw.githubusercontent.com/rdroste/unisal/d0a1beb7fc0e6f3e7d3af5baf23b0914d81a18bb/unisal/models/MobileNetV2.py",
+    "local_sha256": "5f15562df0c9f28edb5fc9b86fd4edf7ac65f1c162e3095cc1c515d9aa0725ad",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/model.py",
+    "upstream_repo": "rdroste/unisal",
+    "commit": "a1d2d2c20df12d458c4713188ff6f50bca72fa7f",
+    "upstream_path": "unisal/model.py",
+    "url": "https://raw.githubusercontent.com/rdroste/unisal/a1d2d2c20df12d458c4713188ff6f50bca72fa7f/unisal/model.py",
+    "local_sha256": "a54cc5628f0aa7c5b410f04b4676ae7770c777a092e5d73988743a8b511933cf",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/__init__.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/__init__.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/__init__.py",
+    "local_sha256": "b87ca1e95cd54b81766e8c74acf0e937952639529e40d2b4088693286f49419e",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/build_sam.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/build_sam.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/build_sam.py",
+    "local_sha256": "856d64d71e44407401297b551884fb4cd1aba8082de0ff5fc60fac3dd42f094d",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/__init__.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/__init__.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/__init__.py",
+    "local_sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/__init__.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/sam/__init__.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/sam/__init__.py",
+    "local_sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/__init__.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/utils/__init__.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/utils/__init__.py",
+    "local_sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/misc.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/utils/misc.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/utils/misc.py",
+    "local_sha256": "01600c01c161cd079d7106fb1d4da845cf91aa31ab2bcecaf8cb151b6d6d20a2",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam2_utils.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/sam2_utils.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/sam2_utils.py",
+    "local_sha256": "e35bbf13bc2e544a0272cd3f9539af38a752676ac3cd744be31cd8220afee804",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/mask_decoder.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/sam/mask_decoder.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/sam/mask_decoder.py",
+    "local_sha256": "ca3523c58365574faddf1bfb54f374e4b4beba05127185ea2b17d22b916e099a",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/position_encoding.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/position_encoding.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/position_encoding.py",
+    "local_sha256": "b51404718c0d38f381293c8e5e00a15d129651b7f09b1158002d8974a30967b5",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/prompt_encoder.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/sam/prompt_encoder.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/sam/prompt_encoder.py",
+    "local_sha256": "4965ccb4a4504aa4d7246b2ad66ffeacd2626415c86a261dc1c65ffd8ae1d40d",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/transformer.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/sam/transformer.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/sam/transformer.py",
+    "local_sha256": "cda19052331e775190ce8b1159efcb828a4632d931a6d8bd4d47109f121782f1",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam2_base.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/sam2_base.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/sam2_base.py",
+    "local_sha256": "69a46b44e8625f509791352bd09beaafe589cd7d872721384e63d37f9fdc6e41",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/transforms.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/utils/transforms.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/utils/transforms.py",
+    "local_sha256": "ba3a64f4600c62f209206a6df3b40e3fcf133edae32fad658831bb0c2a6d1146",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/sam2_image_predictor.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/sam2_image_predictor.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/sam2_image_predictor.py",
+    "local_sha256": "f13e5f9d94e5c8d9d2c3622dab20c8f334c089ef2ee5ea8e199da7d332b029ba",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/__init__.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/backbones/__init__.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/backbones/__init__.py",
+    "local_sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/image_encoder.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/backbones/image_encoder.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/backbones/image_encoder.py",
+    "local_sha256": "16eaad232220386f510ca8dfab8655e63699977149a4daf9ce9c6f374e6777a9",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/utils.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/backbones/utils.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/backbones/utils.py",
+    "local_sha256": "c4a0657db2a92bda2a7ff116cd4017f6b1c59af6408093d8874eb08a0df476ad",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/hieradet.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/backbones/hieradet.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/backbones/hieradet.py",
+    "local_sha256": "03785581ca304d0451ae0df7a08ee0bf1e1dbe66fad285066e6b9ffc0d88d64f",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/memory_attention.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/memory_attention.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/memory_attention.py",
+    "local_sha256": "07358cb7f58ec3788e88ff4e6415f8a9d628a3963529d6e2c915494a5347c8e2",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/memory_encoder.py",
+    "upstream_repo": "facebookresearch/sam2",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "upstream_path": "sam2/modeling/memory_encoder.py",
+    "url": "https://raw.githubusercontent.com/facebookresearch/sam2/2b90b9f5ceec907a1c18123530e92e794ad901a4/sam2/modeling/memory_encoder.py",
+    "local_sha256": "73f7089ae5fdacdfcaaf3deca1ca6d9f84d89e7deb9cf97589622a9ef17ba42f",
+    "license": "Apache-2.0; retain nested source attributions"
+  },
+  {
+    "local": "code/cloud_snapshot/root/autodl-fs/r59_20261021/data/gaic/mobilenetv2.py",
+    "upstream_repo": "HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch",
+    "commit": "344e86fb54b4b083d83c405aa63d7fbeeed4fcdc",
+    "upstream_path": "mobilenetv2.py",
+    "url": "https://raw.githubusercontent.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch/344e86fb54b4b083d83c405aa63d7fbeeed4fcdc/mobilenetv2.py",
+    "local_sha256": "78fe4ed1f764d30f953a04708c592b836deed64c78ccad098bbd31ec5f5e3f4d",
+    "license": "MIT + inherited Apache-2.0"
+  }
+]

@@ -1,0 +1,2 @@
+# Canonical runtime list. Install the CUDA torch pair separately; see README.
+-r requirements-runtime.txt

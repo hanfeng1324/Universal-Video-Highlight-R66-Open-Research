@@ -1,0 +1,239 @@
+{
+  "purpose": "Required runtime identity index; does not grant distribution rights or imply all files are supplied",
+  "rows": [
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/chat_template.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/chat_template.json",
+      "sha256": "ad60d90252ed0b0705ba14e2d0ad0fec0beac1ea955642b54059b36052d8bc96",
+      "bytes": 1050
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/config.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/config.json",
+      "sha256": "7ed3eed5be6924cc800e8a5e53fc405c1aab1aaf36bad65c33403b36c56827f5",
+      "bytes": 1373
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/generation_config.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/generation_config.json",
+      "sha256": "533f191cc257b7de37a4fccd0a7a1706d75e1aa660f93efaa54e5a2a9f9aace9",
+      "bytes": 216
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/merges.txt",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/merges.txt",
+      "sha256": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+      "bytes": 1671839
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/model.safetensors.index.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/model.safetensors.index.json",
+      "sha256": "c7dd78a4c6bea60b51332f1baf37b8f8124ecab2c35395a29a29825bf2619768",
+      "bytes": 65448
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/model_manifest.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/model_manifest.json",
+      "sha256": "0ad1a63a1be1d7ef2f686f9aa0d80a2279ef4d1459f75af3240d0fbcec8e7ce6",
+      "bytes": 4732
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/preprocessor_config.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/preprocessor_config.json",
+      "sha256": "f2058c716eef96ccaed1cc1e2d0c08306b62586d535b28d9d08e691b2fab7ca0",
+      "bytes": 350
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/README.md",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/README.md",
+      "sha256": "0b6da5a154b923da4dc66e416140c9b7f235f9b08fbbcc27fd9df7b586e3150d",
+      "bytes": 18276
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/source_metadata.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/source_metadata.json",
+      "sha256": "f012a3faba313d20bbc8ec768874798792b147c3f1f37984e19b4c5ccc44b1f0",
+      "bytes": 9901
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/tokenizer.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/tokenizer.json",
+      "sha256": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+      "bytes": 7031645
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/tokenizer_config.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/tokenizer_config.json",
+      "sha256": "4abd3520120e266da84c0864fee064d1fb10806f02225911a47253dd38dc5f56",
+      "bytes": 5702
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/vocab.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/vocab.json",
+      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+      "bytes": 2776833
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/LICENSE",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/LICENSE",
+      "sha256": "b5c0e5cf74cf51af1ecbc4af597cfcd13fd9925611838884a681070838a14a50",
+      "bytes": 7387
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/model-00001-of-00002.safetensors",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/model-00001-of-00002.safetensors",
+      "sha256": "41a8895c164b4d32bae6b302f4603fcbc1797f32dafa45c7e9bcda23c6755df8",
+      "bytes": 3982649232
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/models/qwen/model-00002-of-00002.safetensors",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/models/qwen/model-00002-of-00002.safetensors",
+      "sha256": "365531ff8752420e89dee707b79d021fb2d6e25abafe486f080555a4fe6972e4",
+      "bytes": 3526688744
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/weights/dsnet_tvsum.pt",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/dsnet_tvsum.pt",
+      "sha256": "78fdfe7e43809dc2f39a927f6797461854ca6f56669c02bfe99789d7d1ca89fc",
+      "bytes": 17315948
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/weights/googlenet-1378be20.pth",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/googlenet-1378be20.pth",
+      "sha256": "1378be20a8e875cf1568b8a71654e704449655e34711a959a38b04fb34905cef",
+      "bytes": 52147035
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/weights/uvcom.ckpt",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/uvcom.ckpt",
+      "sha256": "0d0e54bc05414285c1c758d0c5825979cdf49c624993732ee57ac44113d2a971",
+      "bytes": 211375879
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/weights/sam2.1_hiera_small.pt",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/sam2.1_hiera_small.pt",
+      "sha256": "6d1aa6f30de5c92224f8172114de081d104bbd23dd9dc5c58996f0cad5dc4d38",
+      "bytes": 184416285
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/weights/unisal/UNISAL.json",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/unisal/UNISAL.json",
+      "sha256": "27d620082668f0ff47f439dae8b4049e610f4dab80b50be92ba28ca36b5fbff6",
+      "bytes": 692
+    },
+    {
+      "original": "/autodl-fs/data/r57_20261021/weights/unisal/weights_best.pth",
+      "path": "local_assets/models/snapshot/autodl-fs/data/r57_20261021/weights/unisal/weights_best.pth",
+      "sha256": "4a9157411f1741d588b15670d15295e998805648b8b6348599fe447298338481",
+      "bytes": 15368928
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/pytorch_model.bin",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/pytorch_model.bin",
+      "sha256": "a63082132ba4f97a80bea76823f544493bffa8082296d62d71581a4feff1576f",
+      "bytes": 605247071
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/config.json",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/config.json",
+      "sha256": "b575ef3c36f2a057fa19e221650105052d61cc9c1a972ec15019c6261ec98770",
+      "bytes": 4186
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/preprocessor_config.json",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/aic_highlight/models/clip-vit-base-patch32/3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268/preprocessor_config.json",
+      "sha256": "910e70b3956ac9879ebc90b22fb3bc8a75b6a0677814500101a4c072bd7857bd",
+      "bytes": 316
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/merges.txt",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/merges.txt",
+      "sha256": "f526393189112391ce6f9795d4695f704121ce452c3aad1f5335cc41337eba85",
+      "bytes": 524657
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/special_tokens_map.json",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/special_tokens_map.json",
+      "sha256": "f8c0d6c39aee3f8431078ef6646567b0aba7f2246e9c54b8b99d55c22b707cbf",
+      "bytes": 389
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/tokenizer.json",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/tokenizer.json",
+      "sha256": "b556ac8c99757ffb677208af34bc8c6721572114111a6e0aaf5fa69ff0b8d842",
+      "bytes": 2224041
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/tokenizer_config.json",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/tokenizer_config.json",
+      "sha256": "34b7336e4bee12e0a9730eaf5189f582ef3c3eea5027f65730e5717256755aad",
+      "bytes": 592
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/vocab.json",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/clip_tokenizer/vocab.json",
+      "sha256": "5047b556ce86ccaf6aa22b3ffccfc52d391ea4accdab9c2f2407da5b742d4363",
+      "bytes": 862328
+    },
+    {
+      "original": "/root/r53_autonomous_20261020/assets/r22_20261016/weights/clip_cg_detr_qvhighlight.ckpt",
+      "path": "local_assets/models/snapshot/root/r53_autonomous_20261020/assets/r22_20261016/weights/clip_cg_detr_qvhighlight.ckpt",
+      "sha256": "a47b5de4cfb0c3050affffd7cdec8347bb1e135b343bfc202077c781a065be9c",
+      "bytes": 143416407
+    },
+    {
+      "original": "/root/autodl-fs/r59_20261021/data/gaic/weights.pth",
+      "path": "local_assets/models/snapshot/root/autodl-fs/r59_20261021/data/gaic/weights.pth",
+      "sha256": "54ef7787d9f345834259c18d4bfbd5d95b25307f795a91001669ac2806a139d2",
+      "bytes": 11836113
+    },
+    {
+      "original": "/root/autodl-tmp/r66_20261023/PRODUCTION_SEQUENCE/weights/decision.joblib",
+      "path": "local_assets/models/r66/decision.joblib",
+      "sha256": "f78f6b79035eda1b5982c1687cc52c9662c03fff2904276de182aff1853491aa",
+      "bytes": 29065004
+    },
+    {
+      "original": "/root/autodl-fs/r64_20261023/dino_projection.pt",
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/dino_projection.pt",
+      "sha256": "e8b54f44eb0fcfb0e7f3149a01e69b8a3879f79bfea0c9bfeda4cee33efe2839",
+      "bytes": 424805
+    },
+    {
+      "original": "/root/autodl-fs/r60_20261022/fcdb_ranker.joblib",
+      "path": "local_assets/models/snapshot/root/autodl-fs/r60_20261022/fcdb_ranker.joblib",
+      "sha256": "65fa2a9632b973eb5f8c23941f430050ec2be78829df3b1a0561ffdad4bf09f7",
+      "bytes": 16670654
+    },
+    {
+      "original": "/root/autodl-fs/r64_20261023/weights/dinov2-base/config.json",
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/config.json",
+      "sha256": "f7ff4cfa73d2f70647dbf6950541ad25d73082d54c2e7e9bded160c7656b2a70",
+      "bytes": 548
+    },
+    {
+      "original": "/root/autodl-fs/r64_20261023/weights/dinov2-base/preprocessor_config.json",
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/preprocessor_config.json",
+      "sha256": "14e780d86fa1861f8751f868d7f45425b5feb55c38ca26f152ca5097ab30f828",
+      "bytes": 436
+    },
+    {
+      "original": "/root/autodl-fs/r64_20261023/weights/dinov2-base/README.md",
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/README.md",
+      "sha256": "a25f88d48fa60f0c82a6573285ce4f01d60411c986b2de03feb68cf65480eb18",
+      "bytes": 3047
+    },
+    {
+      "original": "/root/autodl-fs/r64_20261023/weights/dinov2-base/model.safetensors",
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/model.safetensors",
+      "sha256": "d73036b56966966d07975d696bde331762f37297e2f095de8cea0040c3aa0841",
+      "bytes": 346345912
+    },
+    {
+      "original": "/root/autodl-fs/r64_20261023/weights/dinov2-base/PRETRAINED_SOURCE.json",
+      "path": "local_assets/models/snapshot/root/autodl-fs/r64_20261023/weights/dinov2-base/PRETRAINED_SOURCE.json",
+      "sha256": "e612f38a771cf325308d96a77a4d5ce28db7ad697533cf7ac178a306c2b57180",
+      "bytes": 874
+    }
+  ]
+}

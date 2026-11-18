@@ -1,0 +1,5 @@
+{
+  "description": "Empty overrides use this checkout's local_assets. Paths in models or paths are relative to this JSON file, or absolute. See README.md.",
+  "models": {},
+  "paths": {}
+}

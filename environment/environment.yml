@@ -1,0 +1,11 @@
+# CUDA torch/torchvision are installed explicitly using the README cu128 command.
+# This file alone is not a complete CUDA inference installation.
+name: uvh-inference
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - ffmpeg
+  - pip:
+    - -r requirements.txt

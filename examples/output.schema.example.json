@@ -1,0 +1,9 @@
+{
+  "_description": "Synthetic contract illustration only; not model output or a quality example. A real JSONL line is the record object.",
+  "record": {
+    "video_id": "example",
+    "targetRatioWH": [9, 16],
+    "predictions": [{"frame": 0, "bboxes": [100, 0, 90]}],
+    "model_params_b": 4.098220951
+  }
+}

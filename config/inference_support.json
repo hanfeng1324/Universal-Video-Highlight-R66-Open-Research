@@ -1,0 +1,334 @@
+{
+  "scope": "Required third-party inference support only; excludes training, unused model families, CLI demos, official validator and provenance sidecars. Observed imports plus explicit dynamic extraction and Hydra YAML. Not a clean-install claim.",
+  "rows": [
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/anchor_free_helper.py",
+      "bytes": 2187,
+      "sha256": "4e08ce0a90f1a3ed5d08e56ff67ebf6cf0b710c14703c04aa5b54c8bb45eafbb",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/anchor_free/dsnet_af.py",
+      "bytes": 1441,
+      "sha256": "5c3735031f6b37577dcad4361f8ef43bee48bef5fabd698c62a40c878675aa53",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/bbox_helper.py",
+      "bytes": 3946,
+      "sha256": "249d05a8a108985bfd49408477f6734b86e77fc77bd8b2e1c66e92ea16d8e9c1",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/helpers/video_helper.py",
+      "bytes": 2779,
+      "sha256": "373e13bbcdb82353820390bb1d283cf993170d06b6b3c617b187ab7c6ab22caf",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/dsnet/modules/models.py",
+      "bytes": 4177,
+      "sha256": "30ec8f21d483a2d44791c684f0eafe3643aca0e11be30f5569605ce83c40956d",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/__init__.py",
+      "bytes": 395,
+      "sha256": "b87ca1e95cd54b81766e8c74acf0e937952639529e40d2b4088693286f49419e",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/build_sam.py",
+      "bytes": 6405,
+      "sha256": "856d64d71e44407401297b551884fb4cd1aba8082de0ff5fc60fac3dd42f094d",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/configs/sam2.1/sam2.1_hiera_s.yaml",
+      "bytes": 3761,
+      "sha256": "0f36b91e86e58d06c87e42997166212468b88b98b60e4d816d5e4d4d088b6f55",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/hieradet.py",
+      "bytes": 10003,
+      "sha256": "03785581ca304d0451ae0df7a08ee0bf1e1dbe66fad285066e6b9ffc0d88d64f",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/image_encoder.py",
+      "bytes": 4706,
+      "sha256": "16eaad232220386f510ca8dfab8655e63699977149a4daf9ce9c6f374e6777a9",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/backbones/utils.py",
+      "bytes": 3007,
+      "sha256": "c4a0657db2a92bda2a7ff116cd4017f6b1c59af6408093d8874eb08a0df476ad",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/memory_attention.py",
+      "bytes": 5509,
+      "sha256": "07358cb7f58ec3788e88ff4e6415f8a9d628a3963529d6e2c915494a5347c8e2",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/memory_encoder.py",
+      "bytes": 5657,
+      "sha256": "73f7089ae5fdacdfcaaf3deca1ca6d9f84d89e7deb9cf97589622a9ef17ba42f",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/position_encoding.py",
+      "bytes": 8980,
+      "sha256": "b51404718c0d38f381293c8e5e00a15d129651b7f09b1158002d8974a30967b5",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/mask_decoder.py",
+      "bytes": 12657,
+      "sha256": "ca3523c58365574faddf1bfb54f374e4b4beba05127185ea2b17d22b916e099a",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/prompt_encoder.py",
+      "bytes": 7541,
+      "sha256": "4965ccb4a4504aa4d7246b2ad66ffeacd2626415c86a261dc1c65ffd8ae1d40d",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam/transformer.py",
+      "bytes": 10761,
+      "sha256": "cda19052331e775190ce8b1159efcb828a4632d931a6d8bd4d47109f121782f1",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam2_base.py",
+      "bytes": 46983,
+      "sha256": "69a46b44e8625f509791352bd09beaafe589cd7d872721384e63d37f9fdc6e41",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/modeling/sam2_utils.py",
+      "bytes": 13173,
+      "sha256": "e35bbf13bc2e544a0272cd3f9539af38a752676ac3cd744be31cd8220afee804",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/sam2_image_predictor.py",
+      "bytes": 19937,
+      "sha256": "f13e5f9d94e5c8d9d2c3622dab20c8f334c089ef2ee5ea8e199da7d332b029ba",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/__init__.py",
+      "bytes": 197,
+      "sha256": "34bd8069c54764e7b8d73a78905dbe6467140a2f73170875128f6ca4d8cdd0aa",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/misc.py",
+      "bytes": 13090,
+      "sha256": "01600c01c161cd079d7106fb1d4da845cf91aa31ab2bcecaf8cb151b6d6d20a2",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/sam2/sam2/utils/transforms.py",
+      "bytes": 4885,
+      "sha256": "ba3a64f4600c62f209206a6df3b40e3fcf133edae32fad658831bb0c2a6d1146",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/smartVidCrop.py",
+      "bytes": 89601,
+      "sha256": "2f69f5ee3ef241ffe4bec53f520ec13abf682a0f5d71afe53bcaa0384d00553e",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/data.py",
+      "bytes": 779,
+      "sha256": "51ff0f4ef754869946f28d402f64b65511bb708f52962d72c6d3185e6c7a7799",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/model.py",
+      "bytes": 18590,
+      "sha256": "a54cc5628f0aa7c5b410f04b4676ae7770c777a092e5d73988743a8b511933cf",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/models/MobileNetV2.py",
+      "bytes": 6840,
+      "sha256": "5f15562df0c9f28edb5fc9b86fd4edf7ac65f1c162e3095cc1c515d9aa0725ad",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/models/cgru.py",
+      "bytes": 15036,
+      "sha256": "eeeb14ae9aa14e9b64b113f9d0109378ed7dd2ff74fb63a2a98b2bf5cc39ef5c",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r57_20261021/deps/unisal/unisal/utils.py",
+      "bytes": 6124,
+      "sha256": "34ee7323acd529274555d5a695538d50f194225bf4d5135750329093f386513b",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/autodl-fs/r59_20261021/data/gaic/mobilenetv2.py",
+      "bytes": 5138,
+      "sha256": "78fe4ed1f764d30f953a04708c592b836deed64c78ccad098bbd31ec5f5e3f4d",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/__init__.py",
+      "bytes": 602,
+      "sha256": "8d91bf611763c9435427d067c6617775abe9f33ec2a716c3c983ce1609592406",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/CIM.py",
+      "bytes": 51848,
+      "sha256": "19d7068b38a959a19986d8824588a334138a198cd72a3f66950a18fc9e3b4e70",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/__init__.py",
+      "bytes": 601,
+      "sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/attention.py",
+      "bytes": 21333,
+      "sha256": "741e816c57ad2c8ad210b73ba6d89078769ed5e6f227fabe842ddfdd46547a27",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/cg_detr.py",
+      "bytes": 56928,
+      "sha256": "7eb387a402edd43b77d13597861c86eff0062369770a9e2b64a7758bf7bb9284",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/cg_detr_transformer.py",
+      "bytes": 41372,
+      "sha256": "9ba7ff65a6701c496fee33b2079d5dcc96ed6ef55727e3e0b8835c7d50ea6a02",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/crossattention.py",
+      "bytes": 24937,
+      "sha256": "f04dd347bf84adb9e52ec0df834ed46005a9eced0f7e72971ecb9e4e33943e36",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/matcher.py",
+      "bytes": 10807,
+      "sha256": "817aa5087f28a9c71efbea9e4d270b204d1a801410e0f676a1b56303b429a27c",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/misc.py",
+      "bytes": 2208,
+      "sha256": "0daffd249e1a7fda80b8acdc767b41300a40e67d51e4a2c6f09a53fed825b52b",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/position_encoding.py",
+      "bytes": 5961,
+      "sha256": "9143acf9afc848165945a69e6c3682e293cd10483f7583ae54b72d999f38f439",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/__init__.py",
+      "bytes": 601,
+      "sha256": "e3cd3a4a8ca6e62b7a2836dff5f1312950080570fb72afde82d4cfe6fa617cb0",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/utils/span_utils.py",
+      "bytes": 6598,
+      "sha256": "d46a57aebbf6c77f6829c414fcbdd2bbf6419f86f9a65420a26973f4e1ce0221",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/cloud_snapshot/root/r53_autonomous_20261020/assets/r22_20261016/lighthouse/lighthouse/common/uvcom.py",
+      "bytes": 29543,
+      "sha256": "92eee24da1649c9971e166170bfe4f32881ff7dc65b246400ce7f9f1bf091b9d",
+      "required_by": "Observed public inference imports / AST extraction / SAM2 Hydra config",
+      "status": "REQUIRED"
+    },
+    {
+      "path": "code/temporal_segments.py",
+      "bytes": 5380,
+      "sha256": "531396acbbfe6f76662d77b06e8580ca709100e3ea02c39728a4eac9c45c4319",
+      "status": "REQUIRED",
+      "required_by": "Selected temporal segmentation backend"
+    }
+  ]
+}
